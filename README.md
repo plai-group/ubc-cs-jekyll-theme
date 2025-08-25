@@ -1,4 +1,4 @@
-This is the UBC faculty webpage template bitbucket repository.
+This is the UBC CS student/faculty academic webpage template repository.
 
 # Getting Started
 
@@ -16,8 +16,8 @@ far you go is up to you!  You can be up and running in _less than 10 minutes_.
 
 ------------------
 
-What we faculty really care about is being able to _quickly_ generate content and
-post it online.  Experienced faculty understand that keeping the maintenance costs
+What we academics really care about is being able to _quickly_ generate content and
+post it online.  Experienced academics understand that keeping the maintenance costs
 of these kinds of systems low is also of paramount importance.  Using this distributed, anarchic system makes both true.
 
 This template
@@ -26,7 +26,7 @@ you wish to.  You _can_ do custom javascript stuff.  You do not, however, need t
 
 # Generating Content
 
-This [cheatsheet](https://www.cs.ubc.ca/~fwood/template/cheatsheet/) ([src](https://bitbucket.org/UBCCS/jekyll-faculty/raw/a34bf8770ad674c2a8096b71e81ba523324ea218/cheatsheet.md)) shows how to add
+This [cheatsheet](https://www.cs.ubc.ca/~fwood/template/cheatsheet/) shows how to add
 basically everything faculty want to a website: bibtex references, LaTeX math,
 highlighted code, etc.  The system supports blogging as well however this is
 not demonstrated in this template.
@@ -93,8 +93,8 @@ Complete the following installation steps:
 
  - Install [ruby](https://www.ruby-lang.org/en/downloads/) (if necessary; many systems ship with Ruby installed)
  - Install [jeykll](https://jekyllrb.com/docs/) (steps one and two only)
- - [fork](https://confluence.atlassian.com/bitbucket/forking-a-repository-221449527.html) this repository
- - [clone](https://confluence.atlassian.com/bitbucket/clone-a-repository-223217891.html) your fork locally
+ - Fork this repository
+ - Clone your fork locally
  - ```cd``` into the downloaded repository and run ```bundle install``` to install [jekyll-scholar](https://github.com/inukshuk/jekyll-scholar).  This will also install the UBC CS jekyll template.
 
 ## Getting up and running
